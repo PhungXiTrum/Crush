@@ -4,7 +4,7 @@ const CONFIG = {
     Chị nhớ trả lời cho em nha`,
     btnIntro: 'Okeee',
     title: 'Chị Quy ơi em thích chị rất nhiều >3 ',
-    desc: 'Em không biết hiện giờ chị thấy sao về em nhưng em hy vọng mình sẽ là người nắm tay và được bên cạnh chị trong những ngày về sau',
+    desc: 'Em không biết từ bao giờ hoặc là từ khi nào và em cũng không biết hiện giờ chị thấy sao về em nhưng em hy vọng mình sẽ là người nắm tay và được bên cạnh chị trong những ngày về sau',
     btnYes: 'Chị đồng ý <33',
     btnNo: 'Hong đâu pé ơiii',
     question:'Chị cho em 1 chút cảm nhận của chị về em được không',
